@@ -85,7 +85,7 @@ const Testimonial = () => {
             alt='quotes'
             />
           <p className='max-w-[200px] text-gray-500'>
-          I'm constantly amazed by the unique finds on this website. It's become my go-to for gifts and personal indulgences.</p>
+          I&apos;m constantly amazed by the unique finds on this website. It&apos;s become my go-to for gifts and personal indulgences.</p>
           </div>
         </div>
       </div>
